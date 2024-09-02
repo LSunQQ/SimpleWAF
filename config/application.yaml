@@ -1,0 +1,13 @@
+mysql:
+  dbtype: mysql
+  host: "172.24.87.200"
+  port: 3306
+  user: root
+  database: firewall
+  passwd: "123456"
+redis:
+  host: "172.24.87.200"
+  port: 6379
+  user: default
+  password:
+  database: 3
